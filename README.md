@@ -12,7 +12,7 @@ Texto usado en `AUTOR`: `Danna Salazar`
  
 ## Ejecución exitosa del workflow
  
-[Ver ejecución exitosa de `mi_workflow.yml`](pega aqui)
+[Ver ejecución exitosa de `mi_workflow.yml`](https://github.com/dannx109/entregable-1-cicd/actions/runs/42444190274)
  
 ## Respuestas
  
