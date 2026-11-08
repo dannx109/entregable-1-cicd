@@ -12,7 +12,7 @@ Texto usado en `AUTOR`: `Danna Salazar`
  
 ## Ejecución exitosa del workflow
  
-[Ver ejecución exitosa de `mi_workflow.yml`](https://github.com/actions/runner-images/issues/14748)
+[Ver ejecución exitosa de `mi_workflow.yml`](pega aqui)
  
 ## Respuestas
  
