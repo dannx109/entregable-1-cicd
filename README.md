@@ -43,6 +43,10 @@ Se crea en *Settings > Secrets and variables > Actions > New repository secret* 
  
 **Danna Salazar:**
  
-1. *(ESCRIBE AQUÍ TU PRIMERA IDEA y por qué. Ejemplo: ejecutar pruebas automáticamente en cada push para detectar errores rápido en vez de descubrirlos tarde.)*
-2. *(ESCRIBE AQUÍ TU SEGUNDA IDEA y por qué. Ejemplo: revisar el formato y la calidad del código en cada pull request para mantener un estilo consistente.)*
- 
+### 5. Reflexión: ¿qué tareas automatizarías con GitHub Actions y por qué?
+
+**Danna Salazar:**
+
+1. **Correr pruebas automáticamente cada vez que subo código.** Muchas veces cambio algo y no me doy cuenta de que dañé otra parte del programa hasta mucho después. Si GitHub Actions ejecutara las pruebas en cada `push`, me avisaría al instante si algo falló y podría arreglarlo rápido, cuando todavía recuerdo qué cambié. Además, me ahorraría tener que acordarme de correr las pruebas a mano.
+
+2. **Revisar que el código esté bien escrito antes de juntarlo con `main`.** Me gustaría que en cada pull request se revisara automáticamente el formato y los errores comunes del código. Así se mantiene un estilo ordenado y se evitan errores tontos, sin depender de que alguien lo revise manualmente. Esto sería muy útil sobre todo si trabajo en equipo, porque todos seguiríamos las mismas reglas.
