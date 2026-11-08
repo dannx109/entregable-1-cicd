@@ -39,9 +39,6 @@ Un secreto es un valor sensible, como una contraseña, un token o una clave de a
  
 Se crea en *Settings > Secrets and variables > Actions > New repository secret* y se usa dentro del workflow con una expresión como `${{ secrets.NOMBRE_DEL_SECRETO }}`. En este taller no necesité ninguno, pero si mi workflow tuviera que desplegar en un servicio en la nube, guardaría ahí la clave de acceso y la pasaría a la acción correspondiente con `with:`. Nunca debo imprimirlo en los logs.
  
-### 5. Reflexión: ¿qué tareas automatizarías con GitHub Actions y por qué?
- 
-**Danna Salazar:**
  
 ### 5. Reflexión: ¿qué tareas automatizarías con GitHub Actions y por qué?
 
